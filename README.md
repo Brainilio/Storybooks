@@ -10,3 +10,15 @@ To start app (production):
 
 To start app (development):
 "npm run dev"
+
+static folder:
+./public
+
+views:
+./views
+
+routing:
+./routes/index.js
+
+config files (mongo uri, port):
+./config/...
