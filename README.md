@@ -21,4 +21,4 @@ routing:
 ./routes/index.js
 
 config files (mongo uri, port):
-./config/...
+./config/..

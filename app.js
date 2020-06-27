@@ -29,6 +29,7 @@ app.use(express.static(path.join(__dirname, "public")))
 // Routes
 app.use("/", require("./routes/index"))
 
+// Run in server, use npm start
 const PORT = process.env.PORT || 5000
 app.listen(
 	PORT,
