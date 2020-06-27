@@ -22,3 +22,12 @@ routing:
 
 config files (mongo uri, port):
 ./config/..
+
+passport:
+./config/passport.js
+
+model for users:
+.models/user.js
+
+auth route
+./routes/auth.js
